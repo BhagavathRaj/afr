@@ -1,6 +1,6 @@
 {
   "name": "frontend",
-  "proxy": "https://wweew.onrender.com",
+  "proxy": "https://arb-n30d.onrender.com",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
