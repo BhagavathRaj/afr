@@ -16,6 +16,7 @@ root.render(
     <StoreProvider>  
     <App />
     </StoreProvider>
+    
     </HelmetProvider>
   </React.StrictMode>
 );
